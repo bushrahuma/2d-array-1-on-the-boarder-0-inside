@@ -1,0 +1,1 @@
+# 2d-array-1-on-the-boarder-0-inside
